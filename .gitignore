@@ -1,1 +1,5 @@
+# Rust scratch project (source is local-only; build artifacts are regenerated)
+/rust-demo/
+
+# Per-config colorscheme state, written at runtime
 .colorscheme
